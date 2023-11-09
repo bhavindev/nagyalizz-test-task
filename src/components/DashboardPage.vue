@@ -18,7 +18,7 @@ function handleLogout() {
     <div class="logo_content">
       <div class="logo">
         <i class="bx bxl-c-plus-plus" style="font-size: 30px"></i>
-        <div class="logoname" style="margin-left: 5px">Brand Name</div>
+        <div class="logoname" style="margin-left: 5px">Test Task</div>
       </div>
       <i class="bx bx-menu-alt-right" id="btn" style="font-size: 25px"></i>
     </div>
